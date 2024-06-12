@@ -1,0 +1,5 @@
+﻿  CountLineCoding.cpp
+  CountLineCodingDlg.cpp
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(241): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  CountLineCoding.vcxproj -> C:\Users\StupidDev\source\repos\CountLineCoding\Debug\CountLineCoding.exe

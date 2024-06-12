@@ -1,0 +1,17 @@
+﻿  CountLineCodingDlg.cpp
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(17): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\cctype(33): note: see declaration of 'std'
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(17): error C2878: 'filesystem': a namespace or class of this name does not exist
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(181): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\cctype(33): note: see declaration of 'std'
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(181): error C2878: 'filesystem': a namespace or class of this name does not exist
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(227): error C2653: 'fs': is not a class or namespace name
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(227): error C3861: 'recursive_directory_iterator': identifier not found
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(228): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(228): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(229): error C2065: 'entry': undeclared identifier
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(231): error C2065: 'entry': undeclared identifier
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(235): error C2653: 'fs': is not a class or namespace name
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(235): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(235): error C2143: syntax error: missing ',' before '&'
+c:\users\stupiddev\source\repos\countlinecoding\countlinecoding\countlinecodingdlg.cpp(237): error C2065: 'e': undeclared identifier
